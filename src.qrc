@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>13131.jpg</file>
+        <file>fon33.jpg</file>
+        <file>newnew.jpg</file>
+    </qresource>
+    <qresource prefix="/db"/>
+    <qresource prefix="/sada">
+        <file>shedule.db</file>
+    </qresource>
+</RCC>
